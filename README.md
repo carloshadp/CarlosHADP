@@ -33,8 +33,10 @@
   <img align="center" alt="Carlos-Excel" height="40" width="40" src="https://img.icons8.com/?size=48&id=13654&format=png">
 </div>
 
-<!--![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHADP&show_icons=true&theme=dracula) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+##
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHADP&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 ##
 <div style="display: inline_block">
