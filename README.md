@@ -34,10 +34,11 @@
 </div>
 
 ##
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHADP&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-
+<div style="display: inline_block">
+  
+  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHADP&show_icons=true&theme=dracula) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
 ##
 <div style="display: inline_block">
   <h3>Get in Touch 📫</h3>
