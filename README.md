@@ -13,12 +13,15 @@
 ##
 <div style="display: inline_block">
   <h3>Skills 🛠️</h3>
+  <h4>Front-End</h4>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
-  <img align="center" alt="Carlos-Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg">
+  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  <h4>Back-End</h4>
   <img align="center" alt="Carlos-C" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
+  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
+  <img align="center" alt="Carlos-Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg">
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
 </div>
 
