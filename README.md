@@ -35,9 +35,9 @@
 
 ##
 <div style="display: inline_block">
-  <img src="https://camo.githubusercontent.com/7d1f7f9bc0048ed4c325015b3d134b6364cef5e3fd10fe9ea6fe09d424902c5f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4361726c6f73484144502673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Carlos's GitHub stats" height=180em data-canonical-src="https://github-readme-stats.vercel.app/api?username=CarlosHADP&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosHADP&theme=transparent&show_icons=true" alt="Carlos's GitHub stats" height=180em data-canonical-src="https://github-readme-stats.vercel.app/api?username=CarlosHADP&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;">
   
-  <img src="https://camo.githubusercontent.com/6a493e59491ef54895344fed413c20742efee2af32f9fd9f30cf7e0b93a5d944/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4361726c6f7348414450266c61796f75743d646f6e7574267468656d653d64726163756c61266865696768743d313830656d" alt="Top Langs" height=180em data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&amp;layout=donut&amp;theme=dracula&amp;height=180em" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&layout=donut&theme=transparent" alt="Top Langs" height=180em data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHADP&amp;layout=donut&amp;theme=transparent&amp;height=180em" style="max-width: 100%;">
 </div>
 
 <div style="display: inline_block">
