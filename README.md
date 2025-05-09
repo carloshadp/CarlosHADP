@@ -23,7 +23,7 @@
   <h3>Back-End</h3>
   <img align="center" alt="Carlos-Back-End" width=150px src="https://skillicons.dev/icons?i=java,cs,python&theme=dark">
   <h3>Database</h3>
-  <img align="center" alt="Carlos-Database" width=100px src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
+  <img align="center" alt="Carlos-Database" width=150px src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark">
   <h3>Cloud</h3>
   <img align="center" alt="Carlos-Cloud" width=100px src="https://skillicons.dev/icons?i=aws,azure&theme=dark">
 </div>
